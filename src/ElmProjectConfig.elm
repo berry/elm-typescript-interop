@@ -49,4 +49,4 @@ elm18VersionString =
 
 elm19VersionString : String
 elm19VersionString =
-    "0.19.0 <= v < 0.20.0"
+    "0.19.1"
